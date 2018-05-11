@@ -1,6 +1,6 @@
 {
 	"name": "@yandex-data-ui/utf8",
-	"version": "2.1.2",
+	"version": "2.2.0",
 	"description": "A well-tested UTF-8 encoder/decoder written in JavaScript.",
 	"homepage": "https://mths.be/utf8js",
 	"main": "utf8.js",
@@ -15,10 +15,12 @@
 		"name": "Mathias Bynens",
 		"url": "https://mathiasbynens.be/"
 	},
-	"contributors": [{
-		"name": "Andrey Morozov",
-		"email": "amje@ya.ru"
-	}],
+	"contributors": [
+		{
+			"name": "Andrey Morozov",
+			"email": "amje@ya.ru"
+		}
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/amje/utf8.js.git"
